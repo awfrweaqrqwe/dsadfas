@@ -604,4 +604,4 @@ client.on('voiceStateUpdate', (voiceOld, voiceNew) => {
 
 
 
-client.login(NTE3Mzk0MjY3NTQzNjk5NDYw.DuB6jA.mobSPSzmhfN9LDZ5Pyw2Hwk1JbY);
+client.login(process.env.BOT_TOKEN);
